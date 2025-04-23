@@ -1,0 +1,13 @@
+{
+  "name": "eso-rpa-login",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "playwright": "^1.52.0",
+    "@google-cloud/storage": "^7.10.0"
+  }
+}
